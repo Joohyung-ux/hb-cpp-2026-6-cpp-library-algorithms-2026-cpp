@@ -7,9 +7,9 @@
 #include <string>
 #include <vector>
 
-#include "grade.h"
-#include "median.h"
-#include "Student_info.h"
+#include "grade1.h"
+#include "median1.h"
+#include "Student_Info.h"
 
 using namespace std;
 

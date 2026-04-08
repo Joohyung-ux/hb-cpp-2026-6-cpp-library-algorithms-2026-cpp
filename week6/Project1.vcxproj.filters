@@ -36,18 +36,18 @@
     <ClCompile Include="main.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="grade1.h">
+      <Filter>헤더 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\5-cpp-containers-2026-Joohyung-ux\split.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\5-cpp-containers-2026-Joohyung-ux\grade.h">
+    <ClInclude Include="median1.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\5-cpp-containers-2026-Joohyung-ux\median.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\5-cpp-containers-2026-Joohyung-ux\Students_info.h">
+    <ClInclude Include="Students_Info.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
